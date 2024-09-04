@@ -1,9 +1,9 @@
 {
-"url": "https://raw.githubusercontent.com/ToradaGamil/Swagger-xss/main/Torada.yaml",
+"url": "https://raw.githubusercontent.com/nourchene67/swagger-xss-retest/main/test.yaml",
 "urls": [
 {
-"url": "https://raw.githubusercontent.com/ToradaGamil/Swagger-xss/main/Torada.yaml",
-"name": "Foo"
+"url": "https://raw.githubusercontent.com/nourchene67/swagger-xss-retest/main/test.yaml",
+"name": "kek"
 }
 ]
 }
